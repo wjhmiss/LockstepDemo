@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>9.0</LangVersion>
+    <DebugType>Portable</DebugType>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <!-- 全局警告抑制，会与项目级设置合并 -->
+    <NoWarn>$(NoWarn)</NoWarn>
+    <WarningsNotAsErrors>$(WarningsNotAsErrors);</WarningsNotAsErrors>
+  </PropertyGroup>
+</Project>
