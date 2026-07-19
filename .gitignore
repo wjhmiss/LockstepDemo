@@ -48,8 +48,7 @@ sysinfo.txt
 *.sln
 *.sln.DotSettings
 
-# Unity Package Manager
-/[Pp]ackages/Packages/project-local-packages.json
+
 
 # ===========================
 # .NET / .NET Core
