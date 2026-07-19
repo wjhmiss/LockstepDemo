@@ -1,7 +1,0 @@
-<Project>
-  <PropertyGroup>
-    <LangVersion>9.0</LangVersion>
-    <Nullable>disable</Nullable>
-    <NoWarn>CS0168;CS0219;CS0414;CS0649;CS8019</NoWarn>
-  </PropertyGroup>
-</Project>
