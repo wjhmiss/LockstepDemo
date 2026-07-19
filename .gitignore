@@ -4,7 +4,6 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
-ehthumbs.db
 
 # ===========================
 # IDE / 编辑器
@@ -38,15 +37,6 @@ AssetStoreTools*
 /AssetStoreTools*
 
 # Unity3D 生成的元数据
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-sysinfo.txt
-
-# Unity 自动生成的 csproj
-*.csproj
-*.sln
-*.sln.DotSettings
 
 
 
@@ -96,37 +86,3 @@ nuget.config
 # 项目特定排除
 # ===========================
 
-# LockstepDemo
-LockstepDemo/artifacts/
-LockstepDemo/.vs/
-
-# UnityClient
-UnityClient/Library/
-UnityClient/Temp/
-UnityClient/Logs/
-UnityClient/UserSettings/
-UnityClient/obj/
-UnityClient/.vs/
-UnityClient/.idea/
-UnityClient/.codely-cli/
-UnityClient/.vsconfig
-UnityClient/Assembly-CSharp*.csproj
-UnityClient/TJGenerators*.csproj
-UnityClient/UnityTcp*.csproj
-UnityClient/tjgenerators*.csproj
-UnityClient/UnityClient.sln
-
-# ET (已有自己的 .gitignore，此处补充根级别排除)
-ET/Library/
-ET/Temp/
-ET/Logs/
-ET/UserSettings/
-ET/obj/
-ET/Bin/
-ET/Publish/
-ET/HybridCLRData/
-ET/.vs/
-ET/.idea/
-ET/docs/
-ET/.omx/
-ET/.worktrees/
